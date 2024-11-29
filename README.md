@@ -9,7 +9,7 @@
 ## **Features**
 
 - **Faction Customization**: Players can select the size of each faction using an interactive slider system.
-- **Dynamic AI Combat**: Both factions employ simple AI to locate, attack, and defeat their nearest enemies.
+- **Dynamic AI Combat**: Both factions employ AI to locate, attack, and defeat their nearest enemies.
 - **Immersive Visual Effects**: Includes smooth animations for movement, attacking, and death.
 - **Interactive Backgrounds**: Features a dynamic gradient backdrop with moving stars to enhance the visual experience.
 - **Victory Screen**: The game declares a winner with a themed animation and modernized UI elements.
@@ -34,7 +34,6 @@
 
 ![Start Screen](images/image1.png) 
 
-- Displays a beautiful gradient backdrop with animated stars.
 - Features a **Start** button styled with a gradient from **orange** to **brown**.
 - The button becomes more vibrant on hover.
 
@@ -45,8 +44,8 @@
 ![Unit Selection Screen](images/image2.png) 
 
 - Players adjust the size of each faction using the `+` and `-` buttons.
-- Displays animated idle sprites for both **Orcs** and **Soldiers** for easy identification.
-- The background remains consistent with the gradient theme.
+- Displays idle sprites for both **Orcs** and **Soldiers** for easy identification.
+- Displays a beautiful gradient backdrop with animated stars.
 
 ---
 
