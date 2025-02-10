@@ -151,11 +151,11 @@
 
 1. **Updated Gameplay: Orcs win**
     
-    https://github.com/user-attachments/assets/e3cbe365-bf5f-4502-ad24-074fee22bf1a
+    https://github.com/user-attachments/assets/d99464aa-3a48-4bc2-82ef-0913886b792f
 
 2. **Updated Gameplay: Soldiers win**
     
-    https://github.com/user-attachments/assets/8a435321-c2cb-433d-8dee-6495eb7490c8
+    https://github.com/user-attachments/assets/f66197b9-a502-45a8-aedd-ab30d5361eeb
 
 ---
 
