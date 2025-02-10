@@ -100,10 +100,10 @@ class Character:
         return self.health > 0 and not self.is_dead
 
 class Wizard(Character):
-    def __init__(self, x, y, health, damage, walk_frames, attack_frames, effect_frames, idle_frames):
-        super().__init__(x, y, health, damage, walk_frames, attack_frames, idle_frames)
-        self.effect_frames = effect_frames  # Frames for spell effects
-        self.projectiles = []  # List to store active projectiles
+    def __init__(self, x, y, health, damage, walk_frames, attack_frames, effect_frames, idle_frames, death_frames):
+        super().__init__(x, y, health, damage, walk_frames, attack_frames, death_frames)
+        self.effect_frames = effect_frames
+        self.projectiles = []
 
     def attack(self, target):
         """Wizard casts a spell at the target."""
